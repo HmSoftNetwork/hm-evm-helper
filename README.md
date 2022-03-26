@@ -1,2 +1,2 @@
-# hm-evm-staking
-Staking Smart Contracts on EVM networks
+# hm-evm-heloper
+Smart Contracts Helper on EVM networks
